@@ -1,14 +1,16 @@
-.green{
-	background: green;
+body{
+	background: url(http://www.bigs.com.tw/ezcatfiles/red155/img/img/3056/ironman4-1.jpg);
 }
-
 button{
-	/*width: 100px;*/
-	font-size: 24px;
-	margin: 5px;
+	font-size: 50px;
+	margin: 4px;
 	width: 100px;
 	height: 100px;
+	background-color: purple;
 }
 #message{
+	font-size: 40px;
+}
+#hello{
 	font-size: 24px;
 }
